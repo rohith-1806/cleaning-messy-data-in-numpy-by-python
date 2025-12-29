@@ -77,7 +77,7 @@
     </p>
 
     <div class="author">
-        Author: Rohith P.
+        Author: Perumalla Rohith
     </div>
 
 </body>
